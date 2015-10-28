@@ -51,7 +51,7 @@ This data set has been created as a part of Information Organization Assignment 
 
 **Processing Documentation**
 
-Process document provides the step by step instruction to merge the Maryland_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
+Processing Documentation provides the step by step instruction to merge the Maryland_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
 
 **License**
 
