@@ -99,7 +99,7 @@ Conclusion
 
 Question: Which cities need more day care centers?
 
-For answering this question number of day care centers, population by city and number of working parents with children can be merged to understand the need for more day care centers using Zipcode as the common field. In order to derive the number of working parents with children in a particular city, data from IRS dataset is considered. Number of child tax credit returns from the IRS dataset relates to number of working parents with children.  
+For answering this question the data for 'number of day care centers', 'population by city' and 'number of working parents with children' can be merged using Zipcode as the common field. In order to derive the number of working parents with children in a particular city, data from IRS dataset is considered. Number of child tax credit returns from the IRS dataset relates to number of working parents with children.  
 
 By plotting a graph with population of working parents with children, population of city and the corresponding number of day care centers in the city against zipcode we can predict the demand for day care centers roughly. The county can use this information to analyse which cities need more day care centers.
 
