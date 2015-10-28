@@ -21,7 +21,7 @@ Table of Contents
 
 * [Maryland Population with Zipcode](https://github.com/aajmani/INFM600/raw/master/Maryland_Population_Zipcode.xls)
 
-* [Howard County Day Care Centers]()
+* [Howard County Day Care Centers](https://github.com/aajmani/INFM600/raw/master/Howard_County_Day_Care_Centers.xls)
 
 * [Howard County Day Care, Zipcode and Population Analysis](https://github.com/aajmani/INFM600/raw/master/Howard%20County%20Day%20Care%2C%20Zipcode%20and%20Population%20Analysis.xls)
 
@@ -52,10 +52,6 @@ This data set has been created as a part of Information Organization Assignment 
 **Processing Documentation**
 
 Processing Documentation provides the step by step instruction to merge the Howard_County_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
-
-**License**
-
-License under which the derived data is distributed.
 
 
 References
