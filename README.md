@@ -49,6 +49,12 @@ This data set has been created as a result of performing Join operation on recor
 
 This data set has been created as a part of Information Organization Assignment for INFM 600, Fall 2015, University of Maryland. 
 
+
+**Maryland_IRS_SOI_Tax_Stats.xls**
+
+This data set provides information on SOI Tax Stats - Individual Income Tax by Zipcode for Maryland State. It includes details about Number of Returns, Number of joint returns, Number of exceptions, Number of dependents etc. Zipcode and Child Tax credit columns have been referred for driving useful analysis.
+
+
 **Processing Documentation**
 
 Processing Documentation provides the step by step instruction to merge the Howard_County_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
@@ -61,7 +67,7 @@ References
 
 ```
 
-Department of Planning, Maryland State Data Center. (2011). Zip Code Tabulation Areas [Data set]. 
+Department of Planning, Maryland State Data Center. (2011). Zip Code Tabulation Areas - sf1dp_zcta [Data set]. 
 Retrieved from http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml Date Accessed: 10/24/2015
 
 ```
