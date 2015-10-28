@@ -47,6 +47,8 @@ This data set provides information on Demographic Profile of Maryland State. It 
 
 This data set has been created as a result of performing Join operation on records from 'Maryland_Population_Zipcode.xls' and 'Maryland_Day_Care_Centers.xls' using 'Zipcode' as the common field. It can act as a new data set or can simply be used to derive useful analysis and find new trends. 
 
+This data set has been created as a part of Information Organization Assignment for INFM 600, Fall 2015, University of Maryland. 
+
 **Process Document**
 
 Process document provides the step by step instruction to merge the Maryland_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
@@ -58,7 +60,7 @@ License under which the derived data is distrubuted.
 
 **Reference**
 
-Maryland_Population_Zipcode.xls 
+**Maryland_Population_Zipcode.xls** 
 
 ```
 
@@ -66,7 +68,7 @@ Department of Planning Maryland State Data Center. (2011). Zip Code Tabulation A
 
 ```
 
-Maryland_Day_Care_Centers.xls
+**Maryland_Day_Care_Centers.xls**
 
 ```
 
@@ -74,7 +76,7 @@ Howard County Maryland. (2014). Day Care Centers – Commercial [Data set]. Retr
 
 ```
 
-Howard County Day Care, Zipcode and Population Analysis.xls
+**Howard County Day Care, Zipcode and Population Analysis.xls**
 
 ```
 
@@ -82,7 +84,7 @@ Ajmani, A. (2015). Howard County Day Care and Population Analysis [Data set]. Av
 
 ```
 
-Maryland_IRS_SOI_Tax_Stats.xls
+**Maryland_IRS_SOI_Tax_Stats.xls**
 
 ```
 
