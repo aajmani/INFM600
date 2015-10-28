@@ -109,7 +109,7 @@ Approximate conclusions can also be derived on which cities have families with m
 Analysis
 ---------
 
-![Zipcode vs Number of Day Care Center]()
+![Zipcode vs Number of Day Care Center](https://github.com/aajmani/INFM600/raw/master/Data%20Analysis/Zipcode%20vs%20Number%20of%20Day%20Care%20Centers.jpg)
 ![Zipcode vs Population](https://github.com/aajmani/INFM600/raw/master/Data%20Analysis/Zipcode%20vs%20Population.jpg)
 ![Zipcode vs Population and Number of Day Care Centers](https://github.com/aajmani/INFM600/raw/master/Data%20Analysis/Zipcode%20vs%20Population%20and%20Number%20of%20Day%20Care%20Centers.jpg)
 
