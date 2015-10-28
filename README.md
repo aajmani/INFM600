@@ -19,15 +19,15 @@ Version 1.0 (October 2015)
 Table of Contents
 -------------
 
-* [Maryland Population Zipcode]()
+* [Maryland Population Zipcode](https://github.com/aajmani/INFM600/raw/master/Maryland_Population_Zipcode.xls)
 
-* [Maryland Day Care Centers]()
+* [Maryland Day Care Centers](https://github.com/aajmani/INFM600/raw/master/Maryland_Day_Care_Centers.xls)
 
-* [Howard County Day Care, Zipcode and Population Analysis]()
+* [Howard County Day Care, Zipcode and Population Analysis](https://github.com/aajmani/INFM600/raw/master/Howard%20County%20Day%20Care%2C%20Zipcode%20and%20Population%20Analysis.xls)
 
 * [Process Document]()
         
-* [License]()
+* [License](https://github.com/aajmani/INFM600/raw/master/LICENSE)
       
 
 Description
@@ -95,9 +95,9 @@ By plotting a graph with population of working parents, population of city and t
 Approximate conclusions can also be derived on which cities have families with more kids. 
 
 
-![Zipcode vs Number of Day Care Center]
-![Zipcode vs Population]
-![Zipcode vs Population and Number of Day Care Centers]
+![Zipcode vs Number of Day Care Center](https://github.com/aajmani/INFM600/raw/master/Data%20Analysis/Zipcode%20vs%20Number%20of%20Day%20Care%20Center.jpg)
+![Zipcode vs Population](https://github.com/aajmani/INFM600/raw/master/Data%20Analysis/Zipcode%20vs%20Population%20and%20Number%20of%20Day%20Care%20Centers.jpg)
+![Zipcode vs Population and Number of Day Care Centers](https://github.com/aajmani/INFM600/raw/master/Data%20Analysis/Zipcode%20vs%20Population.jpg)
 
 
 Data Format
