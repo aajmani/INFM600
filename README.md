@@ -61,7 +61,7 @@ References
 
 ```
 
-Department of Planning Maryland State Data Center. (2011). Zip Code Tabulation Areas [Data set]. 
+Department of Planning, Maryland State Data Center. (2011). Zip Code Tabulation Areas [Data set]. 
 Retrieved from http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml Date Accessed: 10/24/2015
 
 ```
@@ -70,8 +70,7 @@ Retrieved from http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml Dat
 
 ```
 
-Howard County Maryland. (2014). Day Care Centers – Commercial [Data set]. 
-Retrieved from https://data.howardcountymd.gov/ Date Accessed: 10/24/2015
+Howard County, Maryland. (2014). Day Care Centers – Commercial [Data set]. Retrieved from https://data.howardcountymd.gov/ Date Accessed: 10/24/2015
 
 ```
 
@@ -79,8 +78,7 @@ Retrieved from https://data.howardcountymd.gov/ Date Accessed: 10/24/2015
 
 ```
 
-Ajmani, Apoorva (2015). Howard County Day Care, Zipcode and Population Analysis [Data set]. 
-Available at https://github.com/aajmani/INFM600 
+Ajmani, Apoorva (2015). Howard County Day Care, Zipcode and Population Analysis [Data set]. Available at https://github.com/aajmani/INFM600 
 
 ```
 
@@ -89,8 +87,7 @@ Available at https://github.com/aajmani/INFM600
 ```
 
 Internal Revenue Service. (2011). Individual Income Tax Returns: Selected Income and Tax Items by State, ZIP Code, and 
-Size of Adjusted Gross Income, Tax Year 2011 [Data set]. 
-Retrieved from https://www.irs.gov/pub/irs-soi/11zp21md.xls Date Accessed: 10/25/2015
+Size of Adjusted Gross Income, Tax Year 2011 [Data set]. Retrieved from https://www.irs.gov/pub/irs-soi/11zp21md.xls Date Accessed: 10/25/2015
 
 ```
 
