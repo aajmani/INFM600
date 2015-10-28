@@ -33,25 +33,25 @@ Table of Contents
 Description
 ------------
 
-Maryland_Day_Care_Centers.xls
+**Maryland_Day_Care_Centers.xls**
 
 This data set acts as the 'Focal' data set. It provide details about the Day Care Centers across Howard County. It provides details like their name, location, contact detail etc. Name and Zipcode columns have been referred for deriving useful analysis. 
 
 
-Maryland_Population_Zipcode.xls 
+**Maryland_Population_Zipcode.xls** 
 
 This data set provides information on Demographic Profile of Maryland State. It includes content like Zipcode, Arealand etc. For project purpose a subset of this data set has been created and used, which focusses only on the cities in Howard County. ZCTA5 and POP100 columns have been referred for deriving useful analysis.
 
 
-Howard County Day Care, Zipcode and Population Analysis.xls
+**Howard County Day Care, Zipcode and Population Analysis.xls**
 
 This data set has been created as a result of performing Join operation on records from 'Maryland_Population_Zipcode.xls' and 'Maryland_Day_Care_Centers.xls' using 'Zipcode' as the common field. It can act as a new data set or can simply be used to derive useful analysis and find new trends. 
 
-Process Document
+**Process Document**
 
 Process document provides the step by step instruction to merge the Maryland_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
 
-License
+**License**
 
 License under which the derived data is distrubuted.
 
@@ -60,24 +60,36 @@ License under which the derived data is distrubuted.
 
 Maryland_Population_Zipcode.xls 
 
+```
+
 Department of Planning Maryland State Data Center. (2011). Zip Code Tabulation Areas [Data set]. Retrieved from http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml Date Accessed: 10/24/2015
 
+```
 
 Maryland_Day_Care_Centers.xls
 
+```
+
 Howard County Maryland. (2014). Day Care Centers – Commercial [Data set]. Retrieved from https://data.howardcountymd.gov/ Date Accessed: 10/24/2015
 
+```
 
 Howard County Day Care, Zipcode and Population Analysis.xls
 
+```
+
 Ajmani, A. (2015). Howard County Day Care and Population Analysis [Data set]. Available at https://github.com/aajmani/INFM600 
 
+```
 
 Maryland_IRS_SOI_Tax_Stats.xls
+
+```
 
 Internal Revenue Service. (2011). Individual Income Tax Returns: Selected Income and Tax Items by State, ZIP Code, and 
 Size of Adjusted Gross Income, Tax Year 2011 [Data set]. Retrieved from https://www.irs.gov/pub/irs-soi/11zp21md.xls Date Accessed: 10/25/2015
 
+```
 
 Conclusion
 -----------
