@@ -25,7 +25,7 @@ Table of Contents
 
 * [Howard County Day Care, Zipcode and Population Analysis](https://github.com/aajmani/INFM600/raw/master/Howard%20County%20Day%20Care%2C%20Zipcode%20and%20Population%20Analysis.xls)
 
-* [Process Document]()
+* [Processing Documentation](https://github.com/aajmani/INFM600/raw/master/Processing_Documentation.pdf)
         
 * [License](https://github.com/aajmani/INFM600/raw/master/LICENSE)
       
@@ -49,13 +49,13 @@ This data set has been created as a result of performing Join operation on recor
 
 This data set has been created as a part of Information Organization Assignment for INFM 600, Fall 2015, University of Maryland. 
 
-**Process Document**
+**Processing Documentation**
 
 Process document provides the step by step instruction to merge the Maryland_Day_Care_Centers.xls (Focal data set) with Maryland_Population_Zipcode.xls.
 
 **License**
 
-License under which the derived data is distrubuted.
+License under which the derived data is distributed.
 
 
 References
@@ -65,7 +65,8 @@ References
 
 ```
 
-Department of Planning Maryland State Data Center. (2011). Zip Code Tabulation Areas [Data set]. Retrieved from http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml Date Accessed: 10/24/2015
+Department of Planning Maryland State Data Center. (2011). Zip Code Tabulation Areas [Data set]. 
+Retrieved from http://census.maryland.gov/census2010/SF1DP/cen10_SF1DP.shtml Date Accessed: 10/24/2015
 
 ```
 
@@ -73,7 +74,8 @@ Department of Planning Maryland State Data Center. (2011). Zip Code Tabulation A
 
 ```
 
-Howard County Maryland. (2014). Day Care Centers – Commercial [Data set]. Retrieved from https://data.howardcountymd.gov/ Date Accessed: 10/24/2015
+Howard County Maryland. (2014). Day Care Centers – Commercial [Data set]. 
+Retrieved from https://data.howardcountymd.gov/ Date Accessed: 10/24/2015
 
 ```
 
@@ -81,7 +83,8 @@ Howard County Maryland. (2014). Day Care Centers – Commercial [Data set]. Retr
 
 ```
 
-Ajmani, A. (2015). Howard County Day Care and Population Analysis [Data set]. Available at https://github.com/aajmani/INFM600 
+Ajmani, Apoorva (2015). Howard County Day Care and Population Analysis [Data set]. 
+Available at https://github.com/aajmani/INFM600 
 
 ```
 
@@ -90,7 +93,8 @@ Ajmani, A. (2015). Howard County Day Care and Population Analysis [Data set]. Av
 ```
 
 Internal Revenue Service. (2011). Individual Income Tax Returns: Selected Income and Tax Items by State, ZIP Code, and 
-Size of Adjusted Gross Income, Tax Year 2011 [Data set]. Retrieved from https://www.irs.gov/pub/irs-soi/11zp21md.xls Date Accessed: 10/25/2015
+Size of Adjusted Gross Income, Tax Year 2011 [Data set]. 
+Retrieved from https://www.irs.gov/pub/irs-soi/11zp21md.xls Date Accessed: 10/25/2015
 
 ```
 
